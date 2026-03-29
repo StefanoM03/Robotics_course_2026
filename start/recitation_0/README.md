@@ -41,19 +41,18 @@ Dopo aver creato il container la prima volta, non usare più il comando lungo in
 
 Fermare il container (a fine sessione di studio):
 
-    ```
+
     docker stop racademy
-    ```
+
 Riavviare il container (per le sessioni successive):
-   
-    ```
+
     docker start racademy
-    ```
+ 
 Una volta avviato, ricarica semplicemente la pagina web http://localhost:6080 per rientrare.
 
 Entrare nel terminale del container dall'host (opzionale):
 Se preferisci usare il terminale nativo di Ubuntu invece di quello nel browser, puoi "entrare" nel container con questo comando:
   
-    ```
+
     docker exec -it --user ubuntu racademy bash
-    ```
+
