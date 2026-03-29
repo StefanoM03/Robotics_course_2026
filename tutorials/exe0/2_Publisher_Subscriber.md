@@ -1,4 +1,5 @@
-Nella virtual machine NoVNC
+Nella virtual machine NoVNC.
+
 Per ogni terminale aperto:
 
     $ cd ~/github/racademy_ws
