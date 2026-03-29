@@ -56,13 +56,28 @@ Se preferisci usare il terminale nativo di Ubuntu invece di quello nel browser, 
 
     docker exec -it --user ubuntu racademy bash
 
+Per uscire
+
+    exit
+
 Dentro il **Desktop Virtuale** 
 
     cd /github
 
-Per Gazebo
+Per Gazebo (versione vecchia)
 
     ign gazebo
+
+(Gazebo Sim, version 8.11.0)
+Fortress v 6.16.0
+
+Aggiornato 
+    
+    gz sim
+
+Harmonic v 8.11.0
+
+
 
 
 
