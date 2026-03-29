@@ -5,7 +5,7 @@ Per ogni terminale aperto:
     $ colcon build --symlink-install   # --symlink-install speeds up Python edits
     $ source install/setup.bash
 
-##  Running the Publisher
+### Running the Publisher
 
 1. **Terminal 1 – Run the node**
 
