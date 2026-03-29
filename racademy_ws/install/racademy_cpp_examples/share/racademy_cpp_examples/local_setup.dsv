@@ -1,2 +1,1 @@
-source;share/racademy_cpp_examples/environment/ament_prefix_path.sh
-source;share/racademy_cpp_examples/environment/path.sh
+/github/racademy_ws/build/racademy_cpp_examples/ament_cmake_environment_hooks/local_setup.dsv
