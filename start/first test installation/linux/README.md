@@ -1,5 +1,6 @@
 # ROS2 Humble + Gazebo Harmonic - Linux Setup
-
+Questo è il primo procedimento tentato per l'avvio del container. 
+Non è andato a buon fine poiché Docker Desktop blocca l'accesso diretto allo schermo e alla scheda video fisica del computer."
 ## Prerequisites
 
 1. **Docker Engine** installed:
