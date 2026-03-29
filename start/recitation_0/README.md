@@ -56,3 +56,16 @@ Se preferisci usare il terminale nativo di Ubuntu invece di quello nel browser, 
 
     docker exec -it --user ubuntu racademy bash
 
+Dentro il **Desktop Virtuale** 
+
+    cd /github
+
+Per Gazebo
+
+    ign gazebo
+
+
+
+
+
+
