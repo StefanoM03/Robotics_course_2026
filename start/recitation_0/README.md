@@ -5,7 +5,8 @@ Questo metodo utilizza un container pre-configurato che trasmette l'interfaccia 
 ### Description
 1. Creazione e Primo Avvio (Da eseguire UNA SOLA VOLTA)
 
-Apri il terminale sul tuo computer host e lancia il seguente comando. Questo scaricherà l'immagine, mapperà la cartella di lavoro corrente e avvierà il container in background:
+Apri il terminale sul tuo computer host e lancia il seguente comando. Q
+uesto scaricherà l'immagine, mapperà la cartella di lavoro corrente e avvierà il container in background:
 Bash
 
 ```
@@ -20,19 +21,22 @@ docker run -d \
   voss01dev/racademy:amd64
 ```
   
-    Nota sul Volume (-v): Il percorso /home/stefano-milantoni/Documents/GitHub/Robotics_course_2026 è collegato alla cartella /github all'interno del container. Le modifiche fatte ai file sul computer host si rifletteranno istantaneamente nel simulatore.
+    Nota sul Volume (-v): Il percorso /home/stefano-milantoni/Documents/GitHub/Robotics_course_2026 
+    è collegato alla cartella /github all'interno del container. 
+    Le modifiche fatte ai file sul computer host si rifletteranno istantaneamente nel simulatore.
 
 2. Accesso all'Interfaccia Grafica
 
 Una volta avviato il container, l'ambiente Desktop non si aprirà come una normale finestra di Ubuntu, ma sarà accessibile tramite browser.
 
-    Apri un browser web (es. Chrome, Firefox).
+    Apri un browser web.
 
     Naviga all'indirizzo: http://localhost:6080
 
-    Usa il terminale presente nel desktop virtuale per lanciare i comandi ROS 2 e Gazebo (spostandoti prima nella cartella di lavoro con cd /github).
+    Usa il terminale presente nel desktop virtuale per lanciare i comandi ROS 2 e Gazebo (sp
+    ostandoti prima nella cartella di lavoro con cd /github).
 
-3. Comandi di Gestione Quotidiana
+3. Comandi di Gestione
 
 Dopo aver creato il container la prima volta, non usare più il comando lungo in alto. Utilizza invece questi comandi per la gestione quotidiana:
 
