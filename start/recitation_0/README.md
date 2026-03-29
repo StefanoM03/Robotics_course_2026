@@ -1,11 +1,14 @@
-Installazione e Avvio dell'Ambiente ROS 2
+# Installazione e Avvio dell'Ambiente ROS 2
 
 Questo metodo utilizza un container pre-configurato che trasmette l'interfaccia grafica direttamente nel browser web. Bypassa i problemi di permessi (schermo/scheda video) tipici di Docker Desktop su Linux, creando un ambiente isolato e stabile.
+
+### Description
 1. Creazione e Primo Avvio (Da eseguire UNA SOLA VOLTA)
 
 Apri il terminale sul tuo computer host e lancia il seguente comando. Questo scaricherà l'immagine, mapperà la cartella di lavoro corrente e avvierà il container in background:
 Bash
 
+```
 docker run -d \
   --pull always \
   -p 6080:80 \
@@ -15,7 +18,8 @@ docker run -d \
   -v "/home/stefano-milantoni/Documents/GitHub/Robotics_course_2026:/github" \
   --name racademy \
   voss01dev/racademy:amd64
-
+```
+  
     Nota sul Volume (-v): Il percorso /home/stefano-milantoni/Documents/GitHub/Robotics_course_2026 è collegato alla cartella /github all'interno del container. Le modifiche fatte ai file sul computer host si rifletteranno istantaneamente nel simulatore.
 
 2. Accesso all'Interfaccia Grafica
