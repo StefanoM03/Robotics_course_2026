@@ -5,7 +5,7 @@ Per ogni terminale aperto:
     $ colcon build --symlink-install   # --symlink-install speeds up Python edits
     $ source install/setup.bash
 
-### Running the Publisher
+## 1 Running the Publisher
 
 1. **Terminal 1 – Run the node**
 
@@ -32,7 +32,7 @@ Per ogni terminale aperto:
 
 Congratulations! You have written and launched your first ROS 2 publisher.
 
-##  Testing the Full Pipeline
+## 2 Testing the Full Pipeline
 
 1. **Terminal 1 – Publisher**
 
