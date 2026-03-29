@@ -1,4 +1,4 @@
-# Installazione e Avvio dell'Ambiente ROS 2
+# Installazione e Avvio dell'Ambiente ROS 2 con Docker
 
 Questo metodo utilizza un container pre-configurato che trasmette l'interfaccia grafica direttamente nel browser web. Bypassa i problemi di permessi (schermo/scheda video) tipici di Docker Desktop su Linux, creando un ambiente isolato e stabile.
 
