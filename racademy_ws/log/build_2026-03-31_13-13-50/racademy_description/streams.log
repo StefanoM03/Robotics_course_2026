@@ -1,0 +1,42 @@
+[0.068s] Invoking command in '/github/racademy_ws/build/racademy_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /github/racademy_ws/src/racademy_description -DCMAKE_INSTALL_PREFIX=/github/racademy_ws/install/racademy_description
+[0.364s] -- The C compiler identification is GNU 11.4.0
+[0.597s] -- The CXX compiler identification is GNU 11.4.0
+[0.625s] -- Detecting C compiler ABI info
+[0.847s] -- Detecting C compiler ABI info - done
+[0.865s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.867s] -- Detecting C compile features
+[0.871s] -- Detecting C compile features - done
+[0.884s] -- Detecting CXX compiler ABI info
+[1.114s] -- Detecting CXX compiler ABI info - done
+[1.130s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.131s] -- Detecting CXX compile features
+[1.132s] -- Detecting CXX compile features - done
+[1.148s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.376s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.545s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.700s] -- Added test 'lint_cmake' to check CMake code style
+[1.711s] -- Added test 'xmllint' to check XML markup files
+[1.729s] -- Configuring done
+[1.778s] -- Generating done
+[1.798s] -- Build files have been written to: /github/racademy_ws/build/racademy_description
+[1.802s] Invoked command in '/github/racademy_ws/build/racademy_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /github/racademy_ws/src/racademy_description -DCMAKE_INSTALL_PREFIX=/github/racademy_ws/install/racademy_description
+[1.806s] Invoking command in '/github/racademy_ws/build/racademy_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_description -- -j8 -l8
+[1.877s] Invoked command in '/github/racademy_ws/build/racademy_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_description -- -j8 -l8
+[1.883s] Invoking command in '/github/racademy_ws/build/racademy_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_description
+[1.894s] -- Install configuration: ""
+[1.897s] -- Installing: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/package_run_dependencies/racademy_description
+[1.903s] -- Installing: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/parent_prefix_path/racademy_description
+[1.909s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/ament_prefix_path.sh
+[1.914s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/ament_prefix_path.dsv
+[1.917s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/path.sh
+[1.921s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/path.dsv
+[1.927s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.bash
+[1.931s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.sh
+[1.939s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.zsh
+[1.952s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.dsv
+[1.965s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/package.dsv
+[1.980s] -- Installing: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/packages/racademy_description
+[2.002s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/cmake/racademy_descriptionConfig.cmake
+[2.013s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/cmake/racademy_descriptionConfig-version.cmake
+[2.022s] -- Installing: /github/racademy_ws/install/racademy_description/share/racademy_description/package.xml
+[2.034s] Invoked command in '/github/racademy_ws/build/racademy_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_description

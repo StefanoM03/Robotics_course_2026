@@ -1,0 +1,21 @@
+[0.046s] Invoking command in '/github/racademy_ws/build/racademy_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_cpp_examples -- -j8 -l8
+[0.484s] Invoked command in '/github/racademy_ws/build/racademy_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_cpp_examples -- -j8 -l8
+[0.507s] Invoking command in '/github/racademy_ws/build/racademy_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_cpp_examples
+[0.529s] -- Install configuration: ""
+[0.530s] -- Execute custom install script
+[0.531s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/package_run_dependencies/racademy_cpp_examples
+[0.532s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/parent_prefix_path/racademy_cpp_examples
+[0.541s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/ament_prefix_path.sh
+[0.543s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/ament_prefix_path.dsv
+[0.544s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/path.sh
+[0.547s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/path.dsv
+[0.552s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.bash
+[0.557s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.sh
+[0.558s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.zsh
+[0.560s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.dsv
+[0.564s] -- Symlinking: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/package.dsv
+[0.581s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/packages/racademy_cpp_examples
+[0.592s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/cmake/racademy_cpp_examplesConfig.cmake
+[0.595s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/cmake/racademy_cpp_examplesConfig-version.cmake
+[0.596s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/package.xml
+[0.650s] Invoked command in '/github/racademy_ws/build/racademy_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_cpp_examples
