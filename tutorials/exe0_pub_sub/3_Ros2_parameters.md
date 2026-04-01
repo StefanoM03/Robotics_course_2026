@@ -144,11 +144,16 @@ $ ros2 run racademy_py_examples simple_parameter
 ```
 
 ### 4.2  Query parameter values
+open a new terminale, and:
 
-```bash
-$ ros2 param get /simple_parameter simple_string_param
-# prints: "voss"
-```
+    cd /github/racademy_ws
+    source install/setup.bash
+
+after:
+
+    $ ros2 param get /simple_parameter simple_string_param
+    # prints: "voss"
+
 
 ### 4.3  Override at startup
 
