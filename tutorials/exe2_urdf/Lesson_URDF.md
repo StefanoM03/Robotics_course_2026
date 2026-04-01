@@ -47,8 +47,8 @@ Create _`<your_github_repo>/racademy_ws/src/racademy_description/urdf/racademy.u
 ```xml
 <?xml version="1.0"?>                                         <!--  1 -->
 
-<robot xmlns:xacro="http://www.ros.org/wiki/xacro"            <!--  2 -->
-       name="racademy">
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="racademy">        <!--  2 -->
+
 
   <xacro:property name="wheel_offset_y" value="0.07"/>        <!--  3 -->
   <xacro:property name="base_height" value="0.033"/>          <!--  4 -->
