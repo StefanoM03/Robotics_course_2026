@@ -2,6 +2,12 @@
 
 Questo metodo utilizza un container pre-configurato che trasmette l'interfaccia grafica direttamente nel browser web. Bypassa i problemi di permessi (schermo/scheda video) tipici di Docker Desktop su Linux, creando un ambiente isolato e stabile.
 
+https://docs.docker.com/desktop/setup/install/linux/ubuntu/
+
+
+https://www.youtube.com/watch?v=38q5YRLzqD8
+
+
 ### Description
 1. Creazione e Primo Avvio (Da eseguire UNA SOLA VOLTA)
 
