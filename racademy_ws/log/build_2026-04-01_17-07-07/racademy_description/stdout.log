@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/README.MD
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebotFrame.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_camera.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_computer.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_full.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_only.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_leftwheel.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_rightwheel.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/urdf/racademy.urdf.xacro
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/package_run_dependencies/racademy_description
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/parent_prefix_path/racademy_description
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/path.sh
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/environment/path.dsv
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.bash
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.sh
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.zsh
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/local_setup.dsv
+-- Symlinking: /github/racademy_ws/install/racademy_description/share/racademy_description/package.dsv
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/packages/racademy_description
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/cmake/racademy_descriptionConfig.cmake
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/cmake/racademy_descriptionConfig-version.cmake
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/package.xml
