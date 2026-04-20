@@ -17,7 +17,7 @@ from launch_ros.parameter_descriptions import ParameterValue
 
 def generate_launch_description() -> LaunchDescription:
     # Locate package share and its *parent* to expose meshes to Gazebo
-    pkg_share = get_package_share_directory("racademy_ws_description")
+    pkg_share = get_package_share_directory("racademy_description")
     share_root = str(Path(pkg_share).parent)
 
     # ─────────────────── Launch Arguments ───────────────────
