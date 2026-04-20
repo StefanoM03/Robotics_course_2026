@@ -69,22 +69,6 @@
     </collision>
   </link>
 
-  <link name="wheel_right_link">
-  <inertial> …mass & inertia matrix… </inertial>
-
-  <visual>
-    <origin xyz="0 0 0" rpy="1.57 0 0"/>
-    <geometry><mesh filename="…/wheel_right_link.STL"/></geometry>
-  </visual>
-
-  <collision>                                          <!-- A -->
-    <origin xyz="0 -0.015 0" rpy="1.57 0 0"/>       <!-- B -->
-    <geometry><sphere radius="0.033"/></geometry>    <!-- C -->
-  </collision>
-</link>
-
-
-
   <joint name="right_wheel_joint" type="continuous">          <!-- 34 -->
     <origin xyz="0 -${wheel_offset_y} 0" rpy="0 0 0"/>       <!-- 35 -->
     <parent link="base_link"/>                                <!-- 36 -->
