@@ -1,0 +1,20 @@
+[0.086s] Invoking command in '/github/racademy_ws/build/learning_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/learning_tf2_cpp -- -j8 -l8
+[0.960s] Invoked command in '/github/racademy_ws/build/learning_tf2_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/learning_tf2_cpp -- -j8 -l8
+[0.988s] Invoking command in '/github/racademy_ws/build/learning_tf2_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/learning_tf2_cpp
+[1.023s] -- Install configuration: ""
+[1.033s] -- Execute custom install script
+[1.036s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf2_cpp
+[1.037s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf2_cpp
+[1.116s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/ament_prefix_path.sh
+[1.125s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/ament_prefix_path.dsv
+[1.137s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/path.sh
+[1.142s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/path.dsv
+[1.147s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.bash
+[1.205s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.sh
+[1.213s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.zsh
+[1.229s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.dsv
+[1.249s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/package.dsv
+[1.270s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/packages/learning_tf2_cpp
+[1.295s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/cmake/learning_tf2_cppConfig.cmake
+[1.308s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/cmake/learning_tf2_cppConfig-version.cmake
+[1.326s] -- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/package.xml

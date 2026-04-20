@@ -1,0 +1,30 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /github/racademy_ws/build/racademy_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/README.MD
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebotFrame.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_camera.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_computer.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_full.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_only.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_leftwheel.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_rightwheel.dae
+-- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/urdf/racademy.urdf.xacro
+-- Symlinking: /github/racademy_ws/install/racademy_description/share/racademy_description/launch/display.launch.py
+[31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:105 (message):
+  ament_cmake_symlink_install_directory() can't find
+  '/github/racademy_ws/src/racademy_description/rviz'
+Call Stack (most recent call first):
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:319 (ament_cmake_symlink_install_directory)
+  cmake_install.cmake:46 (include)
+
+[0m

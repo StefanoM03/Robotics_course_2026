@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf2_cpp
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf2_cpp
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/ament_prefix_path.sh
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/ament_prefix_path.dsv
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/path.sh
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/environment/path.dsv
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.bash
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.sh
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.zsh
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/local_setup.dsv
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/package.dsv
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/ament_index/resource_index/packages/learning_tf2_cpp
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/cmake/learning_tf2_cppConfig.cmake
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/cmake/learning_tf2_cppConfig-version.cmake
+-- Symlinking: /github/racademy_ws/install/learning_tf2_cpp/share/learning_tf2_cpp/package.xml

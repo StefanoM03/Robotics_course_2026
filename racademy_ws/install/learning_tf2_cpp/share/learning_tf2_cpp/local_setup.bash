@@ -1,0 +1,1 @@
+/github/racademy_ws/build/learning_tf2_cpp/ament_cmake_environment_hooks/local_setup.bash

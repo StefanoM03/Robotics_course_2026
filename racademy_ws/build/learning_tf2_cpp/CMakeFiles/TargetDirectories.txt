@@ -1,0 +1,9 @@
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/uninstall.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/learning_tf2_cpp_uninstall.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/test.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/edit_cache.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/rebuild_cache.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/list_install_components.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/install.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/install/local.dir
+/github/racademy_ws/build/learning_tf2_cpp/CMakeFiles/install/strip.dir

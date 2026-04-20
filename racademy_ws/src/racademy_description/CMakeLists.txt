@@ -15,7 +15,7 @@ find_package(ament_cmake REQUIRED)
 # This CMake rule copies both directories verbatim into install/racademy_description/share/… s
 # o that the package:// URI resolves correctly at run‑time.
 install(
-  DIRECTORY meshes urdf
+  DIRECTORY meshes urdf launch rviz
   DESTINATION share/${PROJECT_NAME}
 )
 

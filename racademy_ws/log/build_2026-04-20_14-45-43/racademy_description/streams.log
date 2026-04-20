@@ -1,0 +1,24 @@
+[0.513s] Invoking command in '/github/racademy_ws/build/racademy_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_description -- -j8 -l8
+[0.971s] Invoked command in '/github/racademy_ws/build/racademy_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_description -- -j8 -l8
+[0.999s] Invoking command in '/github/racademy_ws/build/racademy_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_description
+[1.009s] -- Install configuration: ""
+[1.010s] -- Execute custom install script
+[1.011s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/README.MD
+[1.012s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebotFrame.dae
+[1.013s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_camera.dae
+[1.014s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_computer.dae
+[1.016s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_full.dae
+[1.018s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_frame_only.dae
+[1.021s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_leftwheel.dae
+[1.023s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_rightwheel.dae
+[1.039s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/urdf/racademy.urdf.xacro
+[1.045s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_description/share/racademy_description/launch/display.launch.py
+[1.047s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:105 (message):
+[1.048s]   ament_cmake_symlink_install_directory() can't find
+[1.049s]   '/github/racademy_ws/src/racademy_description/rviz'
+[1.054s] Call Stack (most recent call first):
+[1.057s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:319 (ament_cmake_symlink_install_directory)
+[1.061s]   cmake_install.cmake:46 (include)
+[1.070s] 
+[1.073s] [0m
+[1.076s] Invoked command in '/github/racademy_ws/build/racademy_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_description
