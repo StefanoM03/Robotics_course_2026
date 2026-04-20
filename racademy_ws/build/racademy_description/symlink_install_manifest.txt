@@ -8,6 +8,7 @@
 /github/racademy_ws/install/racademy_description/share/racademy_description/meshes/duckiebot_rightwheel.dae
 /github/racademy_ws/install/racademy_description/share/racademy_description/urdf/racademy.urdf.xacro
 /github/racademy_ws/install/racademy_description/share/racademy_description/launch/display.launch.py
+/github/racademy_ws/install/racademy_description/share/racademy_description/rviz/display.rviz
 /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/package_run_dependencies/racademy_description
 /github/racademy_ws/install/racademy_description/share/ament_index/resource_index/parent_prefix_path/racademy_description
 /github/racademy_ws/install/racademy_description/share/racademy_description/environment/ament_prefix_path.sh

@@ -1,0 +1,18 @@
+[1.784s] Invoking command in '/github/racademy_ws/build/learning_tf2_py': PYTHONPATH=/github/racademy_ws/build/learning_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/github/racademy_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /github/racademy_ws/build/learning_tf2_py/build --no-deps symlink_data
+[2.211s] running develop
+[2.538s] running egg_info
+[2.540s] writing learning_tf2_py.egg-info/PKG-INFO
+[2.543s] writing dependency_links to learning_tf2_py.egg-info/dependency_links.txt
+[2.547s] writing entry points to learning_tf2_py.egg-info/entry_points.txt
+[2.548s] writing requirements to learning_tf2_py.egg-info/requires.txt
+[2.550s] writing top-level names to learning_tf2_py.egg-info/top_level.txt
+[2.560s] reading manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[2.571s] writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[2.575s] running build_ext
+[2.575s] Creating /github/racademy_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+[2.585s] Installing static_turtle_tf2_broadcaster script to /github/racademy_ws/install/learning_tf2_py/lib/learning_tf2_py
+[2.590s] Installing turtle_tf2_broadcaster script to /github/racademy_ws/install/learning_tf2_py/lib/learning_tf2_py
+[2.597s] 
+[2.598s] Installed /github/racademy_ws/build/learning_tf2_py
+[2.599s] running symlink_data
+[2.650s] Invoked command in '/github/racademy_ws/build/learning_tf2_py' returned '0': PYTHONPATH=/github/racademy_ws/build/learning_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/github/racademy_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /github/racademy_ws/build/learning_tf2_py/build --no-deps symlink_data
