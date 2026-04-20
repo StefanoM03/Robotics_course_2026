@@ -23,7 +23,7 @@ def generate_launch_description() -> LaunchDescription:
     # ─────────────────── Launch Arguments ───────────────────
     model_arg = DeclareLaunchArgument(
         name="model",
-        default_value=os.path.join(pkg_share, "urdf", "racademy_ws.urdf.xacro"),
+        default_value=os.path.join(pkg_share, "urdf", "racademy.urdf.xacro"),
         description="Absolute path to robot URDF/Xacro file",
     )
 
