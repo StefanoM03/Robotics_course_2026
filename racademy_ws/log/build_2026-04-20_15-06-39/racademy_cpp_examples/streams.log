@@ -1,0 +1,21 @@
+[0.529s] Invoking command in '/github/racademy_ws/build/racademy_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/github/racademy_ws/install/racademy_py_examples:/github/racademy_ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_cpp_examples -- -j8 -l8
+[1.066s] Invoked command in '/github/racademy_ws/build/racademy_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/github/racademy_ws/install/racademy_py_examples:/github/racademy_ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --build /github/racademy_ws/build/racademy_cpp_examples -- -j8 -l8
+[1.084s] Invoking command in '/github/racademy_ws/build/racademy_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/github/racademy_ws/install/racademy_py_examples:/github/racademy_ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_cpp_examples
+[1.099s] -- Install configuration: ""
+[1.105s] -- Execute custom install script
+[1.114s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/package_run_dependencies/racademy_cpp_examples
+[1.117s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/parent_prefix_path/racademy_cpp_examples
+[1.121s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/ament_prefix_path.sh
+[1.124s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/ament_prefix_path.dsv
+[1.127s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/path.sh
+[1.131s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/environment/path.dsv
+[1.140s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.bash
+[1.144s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.sh
+[1.148s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.zsh
+[1.150s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/local_setup.dsv
+[1.155s] -- Symlinking: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/package.dsv
+[1.178s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/ament_index/resource_index/packages/racademy_cpp_examples
+[1.180s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/cmake/racademy_cpp_examplesConfig.cmake
+[1.182s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/cmake/racademy_cpp_examplesConfig-version.cmake
+[1.183s] -- Up-to-date symlink: /github/racademy_ws/install/racademy_cpp_examples/share/racademy_cpp_examples/package.xml
+[1.334s] Invoked command in '/github/racademy_ws/build/racademy_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/github/racademy_ws/install/racademy_py_examples:/github/racademy_ws/install/learning_tf2_py:/opt/ros/humble /usr/bin/cmake --install /github/racademy_ws/build/racademy_cpp_examples

@@ -4,7 +4,7 @@
 
   <xacro:property name="wheel_offset_y" value="0.07"/>        <!--  3 -->
   <xacro:property name="base_height" value="0.033"/>          <!--  4 -->
-
+  <xacro:include filename="$(find racademy_description)/urdf/racademy_ws_gazebo.xacro"/>
   <!--  A.  Base frames  -->
   <link name="base_footprint"/>                               <!--  5 -->
 
@@ -53,20 +53,37 @@
   </joint>
 
   <!--  C.  Right wheel  -->
-  <link name="right_wheel_link">                              <!-- 29 -->
+  <!--  cambio  -->
+  
+  <link name="wheel_right_link">
+    <inertial> …mass & inertia matrix… </inertial>
+
     <visual>
-      <origin xyz="0 0 0" rpy="0 0 0"/>                      <!-- 30 -->
-      <geometry>
-        <mesh filename="package://racademy_description/meshes/duckiebot_rightwheel.dae"/><!-- 31 -->
-      </geometry>
+      <origin xyz="0 0 0" rpy="1.57 0 0"/>
+      <geometry><mesh filename="…/wheel_right_link.STL"/></geometry>
     </visual>
-    <collision>
-      <origin xyz="0 0 0" rpy="0 0 0"/>                      <!-- 32 -->
-      <geometry>
-        <mesh filename="package://racademy_description/meshes/duckiebot_rightwheel.dae"/><!-- 33 -->
-      </geometry>
+
+    <collision>                                          <!-- A -->
+      <origin xyz="0 -0.015 0" rpy="1.57 0 0"/>       <!-- B -->
+      <geometry><sphere radius="0.033"/></geometry>    <!-- C -->
     </collision>
   </link>
+
+  <link name="wheel_right_link">
+  <inertial> …mass & inertia matrix… </inertial>
+
+  <visual>
+    <origin xyz="0 0 0" rpy="1.57 0 0"/>
+    <geometry><mesh filename="…/wheel_right_link.STL"/></geometry>
+  </visual>
+
+  <collision>                                          <!-- A -->
+    <origin xyz="0 -0.015 0" rpy="1.57 0 0"/>       <!-- B -->
+    <geometry><sphere radius="0.033"/></geometry>    <!-- C -->
+  </collision>
+</link>
+
+
 
   <joint name="right_wheel_joint" type="continuous">          <!-- 34 -->
     <origin xyz="0 -${wheel_offset_y} 0" rpy="0 0 0"/>       <!-- 35 -->
